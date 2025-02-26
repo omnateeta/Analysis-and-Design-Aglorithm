@@ -1,3 +1,7 @@
+/*Design and implement c/ c++ program to sort a given set of n integer elements using selection sort method and compute its time complexity run the 
+progrm for varried values of n > 5000 and record the time taken to sort. plot a graph of the time taken versus n. The elements can be read from a 
+file or can be generated using the random number generator */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
