@@ -1,3 +1,5 @@
+//Lab-3 a>
+
 #include<stdio.h>
 
 void warshal(int p[10][10], int n)
