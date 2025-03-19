@@ -1,4 +1,4 @@
-//Lab-3 a>
+//Lab-3 a: Design and implement c/c++ program to find the transitive clousure using warshall's algorithm.
 
 #include<stdio.h>
 
