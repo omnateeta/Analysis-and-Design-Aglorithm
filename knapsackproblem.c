@@ -1,3 +1,4 @@
+//Design and implement c/c++ Program to solve 0/1 knapsac problem using Dynamic Programming method.
 #include<stdio.h>
 void knapsac(int m,int n,int w[],int p[], int v[][10])
 {
