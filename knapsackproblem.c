@@ -1,4 +1,4 @@
-//Design and implement c/c++ Program to solve 0/1 knapsac problem using Dynamic Programming method.
+//Design and implement c/c++ Program to solve 0/1 knapsac problem using Dynamic Programming method.progra, number-6
 #include<stdio.h>
 void knapsac(int m,int n,int w[],int p[], int v[][10])
 {
