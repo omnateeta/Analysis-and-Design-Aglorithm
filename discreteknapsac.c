@@ -1,3 +1,4 @@
+//Design and implement c/c++ program to solve discrete knapsac and continuous knapsac program using fready approximation method.
 #include<stdio.h>
 int main()
 {
