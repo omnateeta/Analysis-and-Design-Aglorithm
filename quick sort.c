@@ -1,7 +1,8 @@
+
 /*Design and implement c/c++ program to sort a given set of n integerelements using Quick Sort method and compute iys time complexity. 
 Run the program for varied values of n>5000 and record the time takn to sort plot a graph of the time taken versus n. The elements can be read from a file
-or can be generated using the random number.*/
-#include<stdio.h>
+or can be generated using the random number*/
+	#include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
 
