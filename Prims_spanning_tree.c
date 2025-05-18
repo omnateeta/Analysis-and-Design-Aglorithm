@@ -1,3 +1,4 @@
+Design and implement c/c++ program to find minimum cost spanning tree of a given connected graph using primns algorithm.
 #include<stdio.h>
 #include<stdlib.h>
 
