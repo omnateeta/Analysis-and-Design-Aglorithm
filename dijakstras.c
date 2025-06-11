@@ -57,23 +57,4 @@ void dij(int source, int cost[20][20],int visited[20],int d[20], int n)
   }
 }
 
-/*
-Enter the number of vertices: 5
 
- Enter the cost adjecency matrix:
- 0 3 999 7 999
-3 0 4 2 999
-999 4 0 5 6
-7 2 5 0 4
-999 999 6 4 0
-
- Enter the source node:1
-
-Shortest path from 1 to 2 is 3
-Shortest path from 1 to 3 is 7
-Shortest path from 1 to 4 is 5
-Shortest path from 1 to 5 is 9
---------------------------------
-Process exited after 36.56 seconds with return value 5
-Press any key to continue . . .
-*/
