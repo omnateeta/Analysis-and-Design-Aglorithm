@@ -16,7 +16,7 @@ void main()
 	  	sum=sum+w[i];
 	if(sum<d)
 	{
-		printf("\nNO Solution\n");
+		printf("\nNo Solution\n");
 		return;
 	}
 	subset(0,0,sum);
@@ -29,7 +29,7 @@ void main()
 
 void subset(int cs, int k, int r)
 {
-	int i ; x[k]=1; count=0;
+	int i ; x[k]=1;
 	if(cs+w[k]==d){
 		printf("\n\n subset %d\n",++count);
 		for(i=0;i<=k;i++)
